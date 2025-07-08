@@ -1,6 +1,6 @@
 <h1>🎰 NEEDSEO HİZMETLERİ A.Ş'den Kazandıran Liste!</h1>
 
-<h2>🏆 Deneme Bonusu Veren Siteler 2025</h2>
+<h2>🏆 ÇEKİMDE KİMLİK İSTEMEYEN SİTLER LİSTE</h2>
 
 <!-- 1. SATIR -->
 <table>
